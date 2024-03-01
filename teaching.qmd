@@ -1,0 +1,5 @@
+---
+title: "Teaching"
+---
+
+This is where I will hopefully put some interactive Julia demos for calculus next year!

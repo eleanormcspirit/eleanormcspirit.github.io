@@ -1,0 +1,35 @@
+---
+title: "Eleanor McSpirit"
+about:
+  template: trestles
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eleanormcspirit/
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-7577-1219
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=Bb8PGNoAAAAJ
+    - icon: buildings
+      text: Kerchof 121
+      href: https://www.campus-maps.com/uva/ker-kerchof-hall/
+---
+
+**Welcome!**
+
+This is the front page of my personal academic website. I'm a fourth year PhD candidate in mathematics at the [University of Virginia](https://www.math.virginia.edu), working under [Ken Ono](https://uva.theopenscholar.com/ken-ono). My interests lie primarily in number theory. In Fall 2024, I will start as a postdoctoral scholar at [Vanderbilt University](https://as.vanderbilt.edu/math/) under the supervision of [Larry Rolen](https://math.vanderbilt.edu/rolenl/).
+
+If you would like to contact me, send an email to *eleanormcspiritATvirginia.edu* (replacing AT with @).
+
+I subscribe to [Federico Adila's](http://fardila.com) axioms:
+
+*Axiom 1*. Mathematical potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+
+*Axiom 2*. Everyone can have joyful, meaningful, and empowering mathematical experiences.
+
+*Axiom 3*. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+
+*Axiom 4*. Every student deserves to be treated with dignity and respect.

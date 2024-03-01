@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Eleanor McSpirit"
+  navbar:
+    favicon: logo.png
+    search: false
+    left:
+      - href: about.qmd
+      - href: publications.qmd
+      - href: talks.qmd
+      - text: CV Download
+        href: EM_CV.pdf
+
+format:
+  html:
+    theme: default
+    highlight: zenburn
+    css: styles.css
+    toc: true
+
+
+
