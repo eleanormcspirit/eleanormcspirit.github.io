@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Eleanor McSpirit"
+  title: "Home"
   navbar:
     favicon: logo.png
     search: false
