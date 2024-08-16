@@ -2,15 +2,11 @@
 title: "Talks"
 ---
 
-### Upcoming
+### Past 
 
 * AMS Special Session on Elementary Number Theory and Elliptic Curves, Howard University -- April 2024
  
 * Algebra, Geometry, and Number Theory Seminar, University of South Carolina -- March 2024
- 
-* Meeting on Plumbings and Spectra, Caltech -- March 2024
-
-### Past 
  
 * Algebra and Number Theory Seminar, Louisiana State University -- February 2024
  
