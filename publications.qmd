@@ -2,15 +2,15 @@
 title: "Publications"
 ---
 
-1. Liles, L. and McSpirit, E. *[Infinite Families of Quantum Modular 3-manifold Invariants.](https://arxiv.org/abs/2306.14765)* Submitted for Publication. 
+1. Liles, L. and McSpirit, E. *[Infinite Families of Quantum Modular 3-manifold Invariants.](https://arxiv.org/abs/2306.14765)* Communications in Number Theory and Physics **18**(2024), no. 1,237-260. 
 
-2. McSpirit, E. and Ono, K. *[Hypergeometry and the AGM over Finite Fields.](https://arxiv.org/abs/2302.10387)* Contemporary Mathematics, American Mathematical Society. Accepted for publication. 
+2. McSpirit, E. and Ono, K. *[Hypergeometry and the AGM over Finite Fields.](https://arxiv.org/abs/2302.10387)* To appear in Contemporary Mathematics, American Mathematical Society. 
 
 3. McSpirit, E. *Swinnerton-Dyer and the Ramanujan Congruences for τ(n).* Ramanujan Handbook by Springer. Accepted for publication. 
 
 4. McSpirit, E. *K3 Surfaces and Ramanujan’s Sum of Two Cubes.* Ramanujan Handbook by Springer. Accepted for publication.
 
-5. McSpirit, E. and Ono, K. *[Zeros in the Character Tables of Symmetric Groups with an ℓ-Core Index.](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/zeros-in-the-character-tables-of-symmetric-groups-with-an-ell-core-index/3E5750E7531B430764211FCD332CD7E7)* Canadian Mathematical Bulletin, 66(2), 467-476.
+5. McSpirit, E. and Ono, K. *[Zeros in the Character Tables of Symmetric Groups with an ℓ-Core Index.](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/zeros-in-the-character-tables-of-symmetric-groups-with-an-ell-core-index/3E5750E7531B430764211FCD332CD7E7)* Canadian Mathematical Bulletin, **66**(2), 467-476.
 
 6. McSpirit, E. and Scheckelhoff, K. *[On the Number of 2-Hooks and 3-Hooks of Integer Partitions.](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/on-the-number-of-2hooks-and-3hooks-of-integer-partitions/643A8020D3571F35148FEF7896B4DE40)* Bulletin of the Australian Mathematical Society (2022): 1-8.
 
