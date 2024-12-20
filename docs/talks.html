@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -150,6 +179,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="past" class="level3">
 <h3 class="anchored" data-anchor-id="past">Past</h3>
 <ul>
+<li><p>Joint Meetings of AMS/NZMS/AustMS, Special Session on Special Functions, <span class="math inline">\(q\)</span>-Series and Beyond, Keynote Speaker – December 2024</p></li>
+<li><p>Algebra and Number Theory Seminar, Oregon State University – November 2024</p></li>
+<li><p>Number Theory Seminar, Vanderbilt University – November 2024</p></li>
 <li><p>AMS Special Session on Elementary Number Theory and Elliptic Curves, Howard University – April 2024</p></li>
 <li><p>Algebra, Geometry, and Number Theory Seminar, University of South Carolina – March 2024</p></li>
 <li><p>Algebra and Number Theory Seminar, Louisiana State University – February 2024</p></li>
